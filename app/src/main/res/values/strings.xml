@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="AN1">My Banks</string>
+    <string name="AN2">Bank Saya</string>
+    <string name="L1">English</string>
+    <string name="L2">Malay</string>
+    <string name="B1a">POSB/DBS Bank</string>
+    <string name="B1b">Bank POSB/DBS </string>
+    <string name="B2a">OCBC Bank</string>
+    <string name="B2b">Bank OCBC</string>
+    <string name="B3a">UOB Bank</string>
+    <string name="B3b">Bank UOB</string>
+    <string name="PNOa">Hotline Number</string>
+    <string name="PNOb">Nombor Hotline</string>
+    <string name="BLa">Bank Website</string>
+    <string name="BLb">Laman Web Bank</string>
+    <string name="AFE">Toggle Favourite</string>
+    <string name="AFM">Togel Kesukaan</string>
+
+    <string name="POSBDBSNO">1800 111 1111</string>
+    <string name="POSBDBSWL">https://www.posb.com.sg/personal/deposits/default.page</string>
+    <string name="OCBCNO">1800 363 3333</string>
+    <string name="OCBCWL">https://www.ocbc.com/group/gateway.page</string>
+    <string name="UOBNO">6259 8188</string>
+    <string name="UOBWL">https://www.uob.com.sg/personal/index.page</string>
+
+
+</resources>
